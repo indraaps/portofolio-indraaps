@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="600" height="340">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fac6dc"/>
+      <stop offset="55%" stop-color="#f7a8c8"/>
+      <stop offset="100%" stop-color="#b8a4f9"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="340" rx="12" fill="url(#bg3)"/>
+  <!-- Paper sheet -->
+  <rect x="100" y="35" width="400" height="270" rx="5" fill="#fff0e9" transform="rotate(-3 300 170)" opacity="0.95"/>
+  <!-- Heading -->
+  <text x="130" y="90" fill="#2b2033" font-family="sans-serif" font-size="28" font-weight="bold">little ideas,</text>
+  <text x="130" y="125" fill="#8956b6" font-family="Georgia,serif" font-size="28">big possibilities.</text>
+  <!-- Scribble -->
+  <text x="140" y="230" fill="#2b2033" font-family="Georgia,serif" font-size="18" font-style="italic" transform="rotate(-5 140 230)">make it</text>
+  <text x="140" y="255" fill="#2b2033" font-family="Georgia,serif" font-size="18" font-style="italic" transform="rotate(-5 140 255)">meaningful</text>
+  <text x="280" y="248" fill="#e65c9e" font-family="sans-serif" font-size="22" font-weight="bold">↗</text>
+  <!-- Sticker -->
+  <circle cx="430" cy="250" r="32" fill="#d8ff8b" transform="rotate(10 430 250)"/>
+  <text x="430" y="246" fill="#2b2033" font-family="monospace" font-size="9" text-anchor="middle">IDEA</text>
+  <text x="430" y="258" fill="#2b2033" font-family="monospace" font-size="9" text-anchor="middle">NO. 03</text>
+  <!-- Spark -->
+  <text x="450" y="80" fill="#ec75af" font-size="26">✳</text>
+  <!-- Label -->
+  <text x="80" y="325" fill="#9b5b8a" font-family="monospace" font-size="9">CONCEPT / 003</text>
+</svg>

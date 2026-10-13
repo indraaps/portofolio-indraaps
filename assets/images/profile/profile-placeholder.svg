@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+    <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f4bd9c"/>
+      <stop offset="100%" stop-color="#d4956b"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a98bff"/>
+      <stop offset="100%" stop-color="#6c5ce7"/>
+    </linearGradient>
+  </defs>
+  <!-- Background circle -->
+  <circle cx="200" cy="200" r="195" fill="url(#bg)" stroke="#a98bff" stroke-width="2" opacity="0.9"/>
+  <!-- Decorative ring -->
+  <circle cx="200" cy="200" r="180" fill="none" stroke="#a98bff" stroke-width="0.5" opacity="0.3"/>
+  <!-- Shoulders / shirt -->
+  <ellipse cx="200" cy="370" rx="120" ry="80" fill="url(#shirt)"/>
+  <!-- Neck -->
+  <rect x="182" y="270" width="36" height="40" rx="8" fill="url(#face)"/>
+  <!-- Head -->
+  <ellipse cx="200" cy="210" rx="72" ry="82" fill="url(#face)"/>
+  <!-- Hair -->
+  <ellipse cx="200" cy="165" rx="78" ry="55" fill="#252032"/>
+  <rect x="135" y="165" width="40" height="50" rx="8" fill="#252032"/>
+  <rect x="225" y="165" width="40" height="50" rx="8" fill="#252032"/>
+  <!-- Eyes -->
+  <ellipse cx="178" cy="218" rx="5" ry="6" fill="#2d2040"/>
+  <ellipse cx="222" cy="218" rx="5" ry="6" fill="#2d2040"/>
+  <!-- Eyebrows -->
+  <line x1="168" y1="205" x2="188" y2="207" stroke="#2d2040" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="212" y1="207" x2="232" y2="205" stroke="#2d2040" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Nose -->
+  <path d="M197 228 Q200 238 203 228" stroke="#c4826a" stroke-width="1.5" fill="none"/>
+  <!-- Smile -->
+  <path d="M185 248 Q200 262 215 248" stroke="#87495d" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Ears -->
+  <ellipse cx="128" cy="220" rx="10" ry="16" fill="#d4956b"/>
+  <ellipse cx="272" cy="220" rx="10" ry="16" fill="#d4956b"/>
+  <!-- Decorative stars -->
+  <text x="310" y="100" fill="#ff8acb" font-size="24" opacity="0.7">✳</text>
+  <text x="80" y="320" fill="#d9ff78" font-size="18" opacity="0.6">✦</text>
+  <text x="310" y="300" fill="#80e8e5" font-size="16" opacity="0.5">＋</text>
+</svg>

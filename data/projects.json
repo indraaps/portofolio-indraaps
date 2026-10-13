@@ -1,0 +1,41 @@
+[
+  {
+    "name": "StudySpace",
+    "description": "Konsep dashboard belajar untuk membantu pengguna melihat aktivitas, menyusun tugas, dan menjaga fokus dalam satu tempat.",
+    "category": "web",
+    "image": "assets/images/projects/studyspace.svg",
+    "technologies": ["HTML", "CSS", "JavaScript", "UI Concept"],
+    "repositoryUrl": "",
+    "demoUrl": "",
+    "featured": true,
+    "isExample": true,
+    "status": "Konsep",
+    "goal": "Mengeksplorasi hierarki informasi, kartu ringkasan, visualisasi progres, dan tata letak dashboard yang mudah dipindai."
+  },
+  {
+    "name": "GearUp Workshop",
+    "description": "Konsep antarmuka pengelolaan servis bengkel dengan pendekatan visual yang tegas dan alur kerja yang praktis.",
+    "category": "web",
+    "image": "assets/images/projects/gearup-workshop.svg",
+    "technologies": ["Web Design", "Dashboard", "Prototype"],
+    "repositoryUrl": "",
+    "demoUrl": "",
+    "featured": false,
+    "isExample": true,
+    "status": "Konsep",
+    "goal": "Mempelajari bagaimana data servis, status pekerjaan, dan informasi pelanggan dapat disajikan secara terstruktur."
+  },
+  {
+    "name": "Idea Journal",
+    "description": "Eksplorasi antarmuka aplikasi untuk menyimpan ide, catatan singkat, dan inspirasi sehari-hari.",
+    "category": "concept",
+    "image": "assets/images/projects/idea-journal.svg",
+    "technologies": ["UI/UX", "Design System", "Prototyping"],
+    "repositoryUrl": "",
+    "demoUrl": "",
+    "featured": false,
+    "isExample": true,
+    "status": "Konsep",
+    "goal": "Mencoba kombinasi tipografi ekspresif, warna cerah, komponen sederhana, dan identitas visual yang konsisten."
+  }
+]

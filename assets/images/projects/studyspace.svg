@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="600" height="340">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4c367a"/>
+      <stop offset="100%" stop-color="#201d38"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="340" rx="12" fill="url(#bg1)"/>
+  <!-- Window frame -->
+  <rect x="70" y="40" width="460" height="260" rx="8" fill="#171525" stroke="#c5b4ff" stroke-width="0.5" opacity="0.9"/>
+  <!-- Title bar -->
+  <rect x="70" y="40" width="460" height="28" rx="8" fill="#1e1c30"/>
+  <circle cx="88" cy="54" r="4" fill="#ff5f57"/>
+  <circle cx="100" cy="54" r="4" fill="#ffbd2e"/>
+  <circle cx="112" cy="54" r="4" fill="#28c840"/>
+  <text x="140" y="58" fill="#aaa1c9" font-family="monospace" font-size="8">STUDYSPACE / DASHBOARD</text>
+  <!-- Sidebar -->
+  <rect x="70" y="68" width="60" height="232" fill="#141321"/>
+  <text x="92" y="95" fill="#c6b1ff" font-size="16" text-anchor="middle">◈</text>
+  <rect x="84" y="110" width="16" height="3" rx="2" fill="#615a7b"/>
+  <rect x="84" y="122" width="16" height="3" rx="2" fill="#615a7b"/>
+  <rect x="84" y="134" width="16" height="3" rx="2" fill="#615a7b"/>
+  <!-- Main content -->
+  <text x="155" y="100" fill="#f4f2ff" font-family="sans-serif" font-size="16" font-weight="bold">Your focus space</text>
+  <text x="440" y="100" fill="#ff9cd4" font-size="18">✳</text>
+  <!-- Stats cards -->
+  <rect x="150" y="115" width="115" height="40" rx="4" fill="#2e2b48" stroke="#ffffff0e"/>
+  <rect x="275" y="115" width="115" height="40" rx="4" fill="#2e2b48" stroke="#ffffff0e"/>
+  <rect x="400" y="115" width="115" height="40" rx="4" fill="#2e2b48" stroke="#ffffff0e"/>
+  <!-- Chart bars -->
+  <rect x="160" y="220" width="30" height="55" rx="3" fill="#c1a8ff" opacity="0.6"/>
+  <rect x="200" y="200" width="30" height="75" rx="3" fill="#c1a8ff" opacity="0.7"/>
+  <rect x="240" y="230" width="30" height="45" rx="3" fill="#c1a8ff" opacity="0.5"/>
+  <rect x="280" y="185" width="30" height="90" rx="3" fill="#c1a8ff" opacity="0.85"/>
+  <rect x="320" y="195" width="30" height="80" rx="3" fill="#c1a8ff" opacity="0.75"/>
+  <rect x="360" y="175" width="30" height="100" rx="3" fill="#c1a8ff" opacity="0.9"/>
+  <rect x="400" y="190" width="30" height="85" rx="3" fill="#c1a8ff" opacity="0.8"/>
+  <rect x="440" y="170" width="30" height="105" rx="3" fill="#c1a8ff"/>
+  <!-- Label -->
+  <text x="80" y="325" fill="#d1c3ff" font-family="monospace" font-size="9">CONCEPT / 001</text>
+</svg>
